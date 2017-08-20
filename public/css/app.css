@@ -1,6 +1,6 @@
 *{
-	margin: auto;
-	padding: auto;
+	margin: 0;
+	padding: 0;
 }
 .container {
 	margin: auto;
@@ -65,7 +65,9 @@
 .bg-primary {
 	background: #2ca9e1;
 }
-
+.relative {
+	position: relative;
+}
 
 
 

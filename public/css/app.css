@@ -69,9 +69,31 @@
 	position: relative;
 }
 
+input .input-search {
+	width: 300px;
+	height: 40px;
+}
 
 
 @import "header.css";
 @import "nav.css";
 @import "main.css";
 @import "footer.css";
+
+
+header{
+	margin-top: 10px;
+}
+.input-form{
+	border: 1px solid grey;
+	border-radius: 20px;
+	width: 350px;
+	top: 20px;
+}
+
+#input-search{
+	height: 30px;
+	width: 300px;
+	border: none;
+	margin-left: 10px;
+}
